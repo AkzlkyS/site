@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+ol{
+    text-align: center;
+}
+
+img{
+    display: flex;
+    margin: auto;
+}
+
+.t{
+    text-align: center;
+}
