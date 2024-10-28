@@ -23,3 +23,23 @@ img{
 .t{
     text-align: center;
 }
+@keyframes Arın {
+    0%{
+        color: blue;
+    }
+    50%{
+        color: red;
+    }
+    100%{
+        color: pink;
+    }
+    
+}
+h3:hover{
+    animation: Arın 9s infinite;
+}
+
+iframe{
+    display: flex;
+    margin: auto;
+}
